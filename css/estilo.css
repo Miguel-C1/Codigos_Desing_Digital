@@ -1,0 +1,67 @@
+#p2 {
+   text-align: center;
+   font-size: 3em;
+   border: solid;
+   color: rgb(0, 0, 255); 
+}
+
+#p3{
+ text-align: left;
+ font: 35px;
+ color: rgb(0, 100, 200);
+ background-color: rgb(0, 0, 0);
+ padding: 1em;
+ margin: 0.5em;
+ font-family: 'Times New Roman', Times, serif;
+}
+
+
+#p4{
+    font-family: 'Times New Roman', Times, serif;
+    font: 20px;
+    color: rgb(0, 100, 200);
+    border: dashed;
+    background-color: rgb(27, 183, 72);
+    padding: 10em;
+    margin: 3.5em;
+   }
+
+   #imagem{
+    display: block;
+    margin: auto;
+    width: 150px;
+    height: 150px;
+   }
+    
+   .teste_paragrafo{
+    font-family: 'Times New Roman', Times, serif;
+    font: 20px;
+    color: rgb(255, 100, 200);
+    border: dashed;
+    background-color: rgb(0, 0, 0);
+    padding: 5em;
+    margin: 3.5em;
+   }
+
+   
+
+@font-face {
+    font-family: teste;
+    src: url();
+}
+
+#centraliza_imagem{
+    display: block;
+    margin: auto;
+    width: 15%;
+    height: 15%;
+}
+
+.titulo_centralizado{
+    text-align: center;
+}
+
+p{
+    font-family: Courier;
+}
+
